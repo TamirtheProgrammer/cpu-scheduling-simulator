@@ -12,7 +12,4 @@ All algorithms are made using the "GanttChart" function.
 All programs are compiled using "g++".
 In case an error occurred when display results, get the results directly from the TXT file using "cat output.txt"
 
-Student Name: Tamir Tarig Khalid Omer
-Student No.: 22205399
-
 <--------------------------------------->
